@@ -1,0 +1,86 @@
+Aug 10, 2025 11:02:08 PM backend.LoggerStartup <init>
+INFO: Initialising Logger
+Aug 10, 2025 11:02:08 PM backend.Launcher$1 run
+INFO: Launching Application
+Aug 10, 2025 11:02:08 PM backend.Launcher <init>
+INFO: Creating Application Frame
+Aug 10, 2025 11:02:08 PM backend.Launcher <init>
+INFO: Initialising Login Menu
+Aug 10, 2025 11:02:08 PM frontend.LoginMenu <init>
+INFO: Initialising Fields
+Aug 10, 2025 11:02:08 PM frontend.LoginMenu <init>
+INFO: Adding Fields to the Login Panel
+Aug 10, 2025 11:02:09 PM backend.Launcher$1 run
+INFO: Application Successfully Launched
+Aug 10, 2025 11:02:29 PM backend.Practitioner <init>
+INFO: Creating New Practitioner
+Aug 10, 2025 11:02:29 PM frontend.LoginMenu$2 actionPerformed
+INFO: Creating New Practitioner
+Aug 10, 2025 11:02:29 PM frontend.LoginMenu$2 actionPerformed
+INFO: Checking Credentials
+Aug 10, 2025 11:02:29 PM frontend.LoginMenu$2 actionPerformed
+INFO: Correct Crendentials Entered
+Aug 10, 2025 11:02:30 PM frontend.LoginMenu$2 actionPerformed
+INFO: Initialising Management Menu
+Aug 10, 2025 11:02:30 PM frontend.management.ManagementMenu <init>
+INFO: Initialising Patient Menu
+Aug 10, 2025 11:02:30 PM frontend.management.PatientMenu <init>
+INFO: Initialising Patient Menu Components
+Aug 10, 2025 11:02:30 PM frontend.management.PatientMenu <init>
+INFO: Patient Menu Correctly Initialised
+Aug 10, 2025 11:02:30 PM frontend.management.ManagementMenu <init>
+INFO: Adding Patient Menu to the Management Menu
+Aug 10, 2025 11:02:30 PM frontend.management.ManagementMenu <init>
+INFO: Initialising Open File Button
+Aug 10, 2025 11:02:30 PM frontend.management.ManagementMenu <init>
+INFO: Initialising Save To File Button
+Aug 10, 2025 11:02:30 PM frontend.management.ManagementMenu <init>
+INFO: Initialising Add Button
+Aug 10, 2025 11:02:30 PM frontend.management.ManagementMenu <init>
+INFO: Initialising Toolbar
+Aug 10, 2025 11:02:30 PM frontend.management.ManagementMenu <init>
+INFO: Adding Buttons to Toolbar
+Aug 10, 2025 11:02:30 PM frontend.management.ManagementMenu <init>
+INFO: Adding Toolbar To Management Menu
+Aug 10, 2025 11:02:33 PM frontend.management.ManagementMenu$1 actionPerformed
+INFO: Open File Selected
+Aug 10, 2025 11:02:37 PM frontend.management.ManagementMenu$1 actionPerformed
+INFO: Adding Patients To Management System
+Aug 10, 2025 11:02:40 PM frontend.management.ManagementMenu$2 actionPerformed
+INFO: Save To File Selected
+Aug 10, 2025 11:02:40 PM frontend.dialog.SearchDialog <init>
+INFO: Initialising Search Dialog
+Aug 10, 2025 11:02:40 PM frontend.management.ManagementMenu$3 actionPerformed
+INFO: Add Patient Selected
+Aug 10, 2025 11:02:40 PM frontend.dialog.PersonalDetailsDialog <init>
+INFO: Initialising Personal Details Dialog
+Aug 10, 2025 11:03:32 PM backend.Patient <init>
+INFO: Creating A New Patient
+Aug 10, 2025 11:03:32 PM frontend.management.PatientMenu addToList
+INFO: Creating New List Of Patients
+Aug 10, 2025 11:03:32 PM frontend.management.PatientMenu addToList
+INFO: Adding New Patient
+Aug 10, 2025 11:03:32 PM frontend.management.ManagementMenu$3 actionPerformed
+INFO: Patient Added To Management System
+Aug 10, 2025 11:03:39 PM frontend.management.PatientMenu$1 valueChanged
+INFO: Patient Selected
+Aug 10, 2025 11:03:39 PM frontend.management.data.InformationMenu <init>
+INFO: Initialising Information Menu
+Aug 10, 2025 11:03:39 PM frontend.management.data.PersonalDetailsMenu <init>
+INFO: Initialising Personal Details Menu
+Aug 10, 2025 11:03:39 PM frontend.management.data.MedicalDetailsMenu <init>
+INFO: Initialising Medical Details Menu
+Aug 10, 2025 11:03:39 PM frontend.management.data.CommentsAndAppointmentsMenu <init>
+INFO: Initialising Comments And Appointments Menu
+Aug 10, 2025 11:03:39 PM frontend.management.PatientMenu$1 valueChanged
+INFO: Patient Selected
+Aug 10, 2025 11:03:39 PM frontend.management.data.InformationMenu <init>
+INFO: Initialising Information Menu
+Aug 10, 2025 11:03:39 PM frontend.management.data.PersonalDetailsMenu <init>
+INFO: Initialising Personal Details Menu
+Aug 10, 2025 11:03:39 PM frontend.management.data.MedicalDetailsMenu <init>
+INFO: Initialising Medical Details Menu
+Aug 10, 2025 11:03:39 PM frontend.management.data.CommentsAndAppointmentsMenu <init>
+INFO: Initialising Comments And Appointments Menu
+Aug 10, 2025 11:03:49 PM frontend.management.data.MedicalDetailsMenu$1 mouseClicked
+WARNING: Browser Could Not Be Opened
