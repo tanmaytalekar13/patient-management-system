@@ -103,6 +103,5 @@ public class JSONParser {
 			}
 		}
 		return patient;
-	}
-	
+	}	
 }
