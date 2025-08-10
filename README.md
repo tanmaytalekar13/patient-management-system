@@ -48,6 +48,5 @@ A fully functional Patient Management System written in Java with its correspond
 
 - **Improved User Interface and Experience:**  
   Refining the GUI to support responsive layouts, intuitive navigation, and accessibility standards will make the system easier and more pleasant to use across devices.
-
 - **Robust Logging and Error Handling:**  
   Expanding the logging framework to capture more granular information about system operations and exceptions will facilitate faster debugging and maintenance.
